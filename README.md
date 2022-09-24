@@ -1,5 +1,4 @@
 # spk_y6_trunglemd
-#!/usr/bin/env node
 
 const fs = require('fs');
 const path = require('path');
